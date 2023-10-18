@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@aws-accelerator/utils": "^0.0.0",
-    "@aws-sdk/client-dynamodb": "3.347.1",
+    "@aws-sdk/client-dynamodb": "3.430.0",
     "@aws-sdk/client-organizations": "3.347.1",
     "@aws-sdk/lib-dynamodb": "3.347.1",
     "@aws-sdk/smithy-client": "3.347.0",
