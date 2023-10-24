@@ -41,7 +41,7 @@
     "@aws-accelerator/config": "^0.0.0",
     "@aws-accelerator/utils": "^0.0.0",
     "@aws-sdk/client-cloudformation": "3.347.1",
-    "@aws-sdk/client-dynamodb": "3.347.1",
+    "@aws-sdk/client-dynamodb": "3.433.0",
     "@aws-sdk/client-s3": "3.347.1",
     "@aws-sdk/lib-dynamodb": "3.347.1",
     "@aws-sdk/smithy-client": "3.347.0",
